@@ -22,4 +22,5 @@ To start up, you need to install some packages. Our implementation is based on P
 ## Training
 After the environment and the datasets are configured. You can run the code as follows:
 
-`python ACS-HAR.py --c config/ACS-HAR/ACS_HAR_uci6_0.yaml`
+```python
+python ACS-HAR.py --c config/ACS-HAR/ACS_HAR_uci6_0.yaml
