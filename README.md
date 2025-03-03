@@ -19,3 +19,7 @@ up to 5.20% accuracy and state-of-the-art semi-supervised methods by up to 3.30%
 
 ## Installation   
 To start up, you need to install some packages. Our implementation is based on PyTorch. We recommend using conda to create the environment and install dependencies and all the requirements are listed in `environment3090.yml`.
+## Training
+After the environment and the datasets are configured. You can run the code as follows:
+
+`python ACS-HAR.py --c config/ACS-HAR/ACS_HAR_uci6_0.yaml`
