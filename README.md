@@ -17,5 +17,5 @@ state, thereby making more efficient use of unlabeled data. Exper-
 imental results on six public datasets demonstrate that our method outperforms traditional supervised methods by
 up to 5.20% accuracy and state-of-the-art semi-supervised methods by up to 3.30% accuracy
 
-##Installation   
+## Installation   
 To start up, you need to install some packages. Our implementation is based on PyTorch. We recommend using conda to create the environment and install dependencies and all the requirements are listed in environment3090.yml.
